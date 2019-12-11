@@ -2,7 +2,7 @@
 # October 21, 2019 
 # Goals
 # (1) Remove obvious "drops" based on keywords
-# (2) Score remaining papers based on keywords in Titles, Abstracts, and keywords 
+# (2) Score remaining papers based on keywords in Titles, Abstracts, and keywords  
 
 setwd("~/RootTraits_Review/")
 filedirectory = "WoS_downloads/"
